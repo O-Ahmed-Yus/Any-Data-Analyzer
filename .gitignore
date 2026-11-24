@@ -1,0 +1,25 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Credentials and secrets
+.Renviron
+.env
+.httr-oauth
+secrets/
+
+# Deployment configuration
+rsconnect/
+
+# Confidential data
+data/private/
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
